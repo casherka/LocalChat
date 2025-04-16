@@ -1,0 +1,9 @@
+{
+    "plugins": ["core.js"],
+    "pluginsArgs": {
+        "core.js": {
+            "port": 3000,
+            "echo": true
+        }
+    }
+}

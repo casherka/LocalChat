@@ -1,2 +1,2 @@
 # LocalChat
-Pre-Alpha 0.0.1
+Pre-Alpha 0.0.2
